@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_height_unit">키 입력 단위 미터(m)? </string>
+    <string name="height_cm">키(cm)</string>
+    <string name="height_m">키(m)</string>
+    <string name="weight">몸무게(kg)</string>
+</resources>
